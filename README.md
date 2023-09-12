@@ -1,3 +1,2 @@
-# CS303_Assignment_1
-# Carolyn Knapp
+# CS303_Assignment_1/C_Knapp
 
