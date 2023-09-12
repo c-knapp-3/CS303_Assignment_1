@@ -16,6 +16,7 @@ Assumptions:
 - the function findNumber() only finds the first instance of the chosen number if it exists
 
 Screenshots:
+
 ![Output_1](https://github.com/c-knapp-3/CS303_Assignment_1/assets/113488299/16ad7aec-ba41-4846-9f2e-65205d9cbeb6)
 ![Output_2](https://github.com/c-knapp-3/CS303_Assignment_1/assets/113488299/b90796f8-df65-4751-82fa-f745ae6ac8b4)
 ![Output_3](https://github.com/c-knapp-3/CS303_Assignment_1/assets/113488299/c7374dbb-dc8c-4aae-91e2-4902b3b6a4a7)
